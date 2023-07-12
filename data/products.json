@@ -1,9 +1,1 @@
-[
-    {
-        "id": "123456789",
-        "title": "Shark",
-        "imageUrl": "https://img.freepik.com/free-vector/cute-shark-with-doughnut_138676-3244.jpg?w=2000",
-        "description": "13",
-        "price": "Cute baby shark"
-    }
-]
+[{"id":"123456789","title":"Shark","imageUrl":"https://img.freepik.com/free-vector/cute-shark-with-doughnut_138676-3244.jpg?w=2000","description":"Cute baby shark","price":"13"},{"title":"Baby goats","imageUrl":"https://i.pinimg.com/736x/0a/e8/12/0ae8122562bd4499f5651d0510ec41c9.jpg","description":"Small baby goats","price":"101","id":"0.2622674805812777"}]
